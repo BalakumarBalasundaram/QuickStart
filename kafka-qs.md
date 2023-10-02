@@ -35,3 +35,8 @@ services:
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
 ```
+
+## Quick Start the Kafka ETL (KSQL DB)
+Path > \BalaLabs\001-ListedContainer\007-KafkaContainer\ksqldb_etl_poc\docker-compose.yml
+
+
